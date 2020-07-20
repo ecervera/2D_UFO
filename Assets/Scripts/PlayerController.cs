@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    private Rigidbody2d rb2d;
+    private Rigidbody2D rb2d;
 
     void Start()
     {
